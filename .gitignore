@@ -1,0 +1,15 @@
+# C++ Build & Executable Directories
+bin/
+build/
+out/
+.vs/
+x64/
+Debug/
+Release/
+
+# Compiled Binaries & Object Files
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
